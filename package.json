@@ -1,6 +1,6 @@
 {
   "name": "@littlewhiteloti/vue-cookies",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Vuejs 3 working copy of the original vue-cookies from https://github.com/cmp-cc/vue-cookies",
   "main": "vue-cookies.js",
   "scripts": {
