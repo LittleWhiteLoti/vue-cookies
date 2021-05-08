@@ -6,9 +6,7 @@ A simple Vue.js plugin for handling browser cookies
 
 ### Package Managers
 ```
-npm install @LittleWhiteLoti/vue-cookies --save-exact
-or
-yarn add @LittleWhiteLoti/vue-cookies --exact
+npm install @littlewhiteloti/vue-cookies --save-exact
 
 // require
 var Vue = require('vue')
