@@ -1,11 +1,8 @@
 {
   "name": "@littlewhiteloti/vue-cookies",
-  "version": "0.0.2",
-  "description": "Vuejs 3 working copy of the original vue-cookies from https://github.com/cmp-cc/vue-cookies",
+  "version": "0.0.1",
+  "description": "Copy of the original vue-cookies from https://github.com/cmp-cc/vue-cookies but modified to work with Vuejs 3",
   "main": "dist/vue-cookies.min.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "files": [
     "dist",
     "src"
